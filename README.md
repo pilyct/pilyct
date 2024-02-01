@@ -1,6 +1,5 @@
 ### Hola amig@s 🤓
-I'm Pily, a full-stack developer with a background rooted in data.<br/> 
-Back in the day, I used to work as a data analyst and visualization specialist. Now, I've happily ventured into the enchanting domain of web and mobile app development. <br/>Dive with me into my creative process, where I sprinkle just enough data flair and dev skills to make things click – both visually and functionally!
+I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨
 
 
 ### Languages
