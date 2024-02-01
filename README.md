@@ -1,5 +1,6 @@
 ### Hola amig@s 🤓
-I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨
+I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. <br/>
+Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨
 
 
 ### Languages
