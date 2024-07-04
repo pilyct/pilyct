@@ -1,5 +1,5 @@
 # Hola amig@s 🤓 
-<img align="right" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmOXZueWxhY281MnpsMjk0aG44ZHFmbHNqdzhvZnVhM3l2eXY5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
+<img align="right" width="450" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmOXZueWxhY281MnpsMjk0aG44ZHFmbHNqdzhvZnVhM3l2eXY5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
 
 <p align-"left" style="color:red">
 I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. <br/>
