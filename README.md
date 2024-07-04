@@ -1,12 +1,18 @@
-# Hola amig@s 🤓
-<img align="right" width="800" alt="GIF" src="[./assets/coding.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmOXZueWxhY281MnpsMjk0aG44ZHFmbHNqdzhvZnVhM3l2eXY5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" />
-<p align-"left">
+# Hola amig@s 🤓 
+<img align="right" width="500" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmOXZueWxhY281MnpsMjk0aG44ZHFmbHNqdzhvZnVhM3l2eXY5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
+
+<p align-"left" style="color:red">
 I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. <br/>
 Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨ 
 </p>
 
+</br>
+</br>
+</br>
+</br>
 
-### Languages
+![](https://komarev.com/ghpvc/?username=pilyct&style=for-the-badge&color=7652d9&abbreviated=true)
+## Languages
 <p align-"left">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
@@ -14,7 +20,7 @@ Join me on this coding journey where I blend data expertise with development ski
 <img src="https://img.shields.io/badge/R-71a5d4?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
-### Frontend development
+## Frontend development
 <p align-"left">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -31,7 +37,7 @@ Join me on this coding journey where I blend data expertise with development ski
 <img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
 </p>
 
-### Backend development
+## Backend development
 <p align-"left">
 <img src="https://img.shields.io/badge/node.js-87bf01?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
@@ -40,7 +46,7 @@ Join me on this coding journey where I blend data expertise with development ski
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-### Other
+## Other
 <p>
 <img src="https://img.shields.io/badge/figma-0F172A?style=for-the-badge&logo=figma&logoColor=fe54b0">
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
