@@ -1,8 +1,8 @@
 # Hola amig@s 🤓
-<img align="right" width="800" alt="GIF" src="./assets/coding.gif" />
+<img align="right" width="800" alt="GIF" src="[./assets/coding.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmOXZueWxhY281MnpsMjk0aG44ZHFmbHNqdzhvZnVhM3l2eXY5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" />
 <p align-"left">
-  I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. <br/>
-  Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨ 
+I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. <br/>
+Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨ 
 </p>
 
 
