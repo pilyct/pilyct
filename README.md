@@ -1,10 +1,12 @@
-# Hola amig@s 🤓 
+# <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola amig@s
 <img align="right" width="500" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmOXZueWxhY281MnpsMjk0aG44ZHFmbHNqdzhvZnVhM3l2eXY5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
 
+<div>
 <p align-"left">
 I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. <br/>
 Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨ 
 </p>
+</div>
 
 </br>
 </br>
