@@ -1,5 +1,5 @@
 # <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola amig@s
-<img align="right" width="500" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDBmOXZueWxhY281MnpsMjk0aG44ZHFmbHNqdzhvZnVhM3l2eXY5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
+<img align="right" width="300" height="250" alt="GIF" src="https://media.giphy.com/media/X6WpjO26xjYUCGgu0L/giphy.gif" />
 
 <div>
 <p align-"left">
@@ -12,7 +12,8 @@ I'm Pily— After years of working with data, I'm now diving into the world of w
 </br>
 </br>
 
-![](https://komarev.com/ghpvc/?username=pilyct&style=for-the-badge&color=7652d9&abbreviated=true)
+<!---![](https://komarev.com/ghpvc/?username=pilyct&style=for-the-badge&color=7652d9&abbreviated=true)--->
+
 ## Languages
 <p align-"left">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
