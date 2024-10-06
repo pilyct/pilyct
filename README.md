@@ -1,5 +1,5 @@
 # <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola amig@s
-<img align="right" width="500" height="300" alt="GIF" src="https://media.giphy.com/media/X6WpjO26xjYUCGgu0L/giphy.gif" />
+<img align="right" width="400" height="250" alt="GIF" src="https://media.giphy.com/media/X6WpjO26xjYUCGgu0L/giphy.gif" />
 
 <div align-"left">
 <p>
