@@ -3,8 +3,7 @@
 
 <div>
 <p align-"left">
-I'm Pily—a former data maven who's now diving headfirst into the exciting world of web and mobile app magic. <br/>
-Join me on this coding journey where I blend data expertise with development skills, creating projects that are both visually stunning and functionally flawless! 🚀✨ 
+I'm Pily— After years of working with data, I'm now diving into the world of web and mobile app development with the same passion and curiosity. I’m bringing together my data expertise and love for coding to create projects that not only look great but also work seamlessly. Let’s explore this exciting journey together! 🚀✨
 </p>
 </div>
 
