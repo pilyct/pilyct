@@ -34,7 +34,6 @@ I'm Pily— After years of working with data, I'm now diving into the world of w
     <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/expo-fefefe?style=for-the-badge&logo=expo&logoColor=black">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/Shiny-f7f7f7?style=for-the-badge&logo=rstudio">
     <img src="https://img.shields.io/badge/tailwind-0F172A?style=for-the-badge&logo=tailwindcss">
     <img src="https://img.shields.io/badge/html-cf5533?style=for-the-badge&logo=html5&logoColor=white">
@@ -46,9 +45,9 @@ I'm Pily— After years of working with data, I'm now diving into the world of w
 <div align="center">
 <img src="https://img.shields.io/badge/node.js-87bf01?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-f5f5f5?style=for-the-badge&logo=express&logoColor=black">
-<img src="https://img.shields.io/badge/koa-eaeaea?style=for-the-badge&logo=koa&logoColor=black">
 <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 </div></td><td valign="top" width="25%">
 
 <h2 align="center">Other</h3>
