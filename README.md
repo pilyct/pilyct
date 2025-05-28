@@ -1,5 +1,5 @@
 # <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hola amig@s
-<img align="right" width="350" height="250" alt="GIF" src="https://media.giphy.com/media/X6WpjO26xjYUCGgu0L/giphy.gif" />
+<img align="right" width="350" height="300" alt="GIF" src="https://media.giphy.com/media/X6WpjO26xjYUCGgu0L/giphy.gif" />
 
 <div align-"left">
 <p>
@@ -31,10 +31,11 @@ I'm Pily— After years of working with data, I'm now diving into the world of w
 <h2 align="center">Frontend</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
     <img src="https://img.shields.io/badge/react native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/expo-fefefe?style=for-the-badge&logo=expo&logoColor=black">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-    <img src="https://img.shields.io/badge/Shiny-f7f7f7?style=for-the-badge&logo=rstudio">
+    <img src="https://img.shields.io/badge/Shiny-f7f7f7?style=for-the-badge&logo=r&logoColor=71a5d4">
     <img src="https://img.shields.io/badge/tailwind-0F172A?style=for-the-badge&logo=tailwindcss">
     <img src="https://img.shields.io/badge/html-cf5533?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-254bdd?style=for-the-badge&logo=css3&logoColor=white">
@@ -56,17 +57,20 @@ I'm Pily— After years of working with data, I'm now diving into the world of w
 <img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
 <img src="https://img.shields.io/badge/git-e94e31?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/tableau-1b447a?style=for-the-badge&logo=tableau">
+<!--<img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fe7b0f">-->
+<img src="https://img.shields.io/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=fe7b0f">
 <img src="https://img.shields.io/badge/powerbi-313131?style=for-the-badge&logo=powerbi&logoColor=f3b63f">
+<!--<img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-313131?logo=power-bi&logoColor=#FABF15">-->
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </div></td></tr></table>  
 
-### Github Stats
+<!-- ### Github Stats
 <div align="center">
 <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pilyct&theme=github_dark" width="33%">
 <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pilyct&theme=github_dark" width="33%">
 <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pilyct&theme=github_dark" width="33%"> 
 </div>
+-->
 
 
 <!--
