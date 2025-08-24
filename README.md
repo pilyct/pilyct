@@ -37,7 +37,6 @@ I'm Pily— After years of working with data, I'm now diving into the world of w
     <img src="https://img.shields.io/badge/tailwind-0F172A?style=for-the-badge&logo=tailwindcss">
     <img src="https://img.shields.io/badge/html-cf5533?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/css-254bdd?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
 </div></td><td valign="top" width="25%">
 
 <h2 align="center">Backend</h3>
